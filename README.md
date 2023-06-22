@@ -9,7 +9,7 @@ This code is designed to extract information from a Slack export JSON file and s
 > Slack export JSON file 
 ## Instructions
 Place the Slack export JSON file in the same directory as the Python script.
-Modify the script if necessary to match the correct path and filename of the JSON file. Replace 'Slack export Jan 21 2020 - May 21 2023/ai-ml-xr/2020-07-26.json' in line 6 with the correct path and filename.
+Modify the script if necessary to match the correct path and filename of the JSON file. Replace 'Slack export/ML-AI-xr/2020-12-19.json' in line 6 with the correct path and filename.
 Run the Python script. It will extract the information from the JSON file and save it to a CSV file named extracted_data.csv.
 After running the script, you can find the generated CSV file in the same directory as the Python script.
 ## Code Explanation
