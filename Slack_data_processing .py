@@ -3,7 +3,7 @@ import json
 import re
 
 # Read JSON file
-with open('Slack export Jan 21 2020 - May 21 2023/ai-ml-xr/2020-07-26.json', 'r') as file:
+with open('Slack export/ML-AI-xr/2020-12-19.json', 'r') as file:
     data = json.load(file)
 
 # Initialize lists for extracted information
